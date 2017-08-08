@@ -8,7 +8,7 @@
 ;function in Scheme in two steps:
 
 
-;(a) Write a maxInt helper function; it takes a number k
+;(A) Write a maxInt helper function; it takes a number k
 ;and a list of numbers, x, as arguments, and returns the number
 ;which is the largest among k and numbers in x. For example,
 ;(maxInt helper 5 ’(4 5 6)) should return 6:
